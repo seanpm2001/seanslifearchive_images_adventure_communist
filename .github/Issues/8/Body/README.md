@@ -6,10 +6,12 @@ This project is no longer receiving weekly updates, but there is still tasks tha
 
 - [ ] Uploading data from 2018 to 2020 in full
 
-- [ ] Documentation updates
+- [ ] Documentation updates (and documentation improvements)
 
 - [ ] New repo changes
 
 - [ ] Find the data for August to September 2020 and upload it
+
+- [ ] Archive Pull Request data
 
 ***
